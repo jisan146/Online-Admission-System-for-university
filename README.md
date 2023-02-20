@@ -1,7 +1,6 @@
 # Online Admission System For University
 
-The application developed using php laravel & MySQL. It is a web based application.
-I made it to learn programming in 2019.
+The application developed using php laravel & MySQL. It is a web based application. It's a work sample.
 
 ## Please feel free to contact me if any assistance is needed in the future
 
